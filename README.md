@@ -1,12 +1,15 @@
 
-Acerca del proyecto
+### Acerca del proyecto
 
-### El proyecto fue creado con [Create React App](https://github.com/facebookincubator/create-react-app).
+* El proyecto fue creado con [Create React App](https://github.com/facebookincubator/create-react-app).
 
-### Se instalo webpack manualmente (https://webpack.js.org/concepts/)
+* Se instaló webpack manualmente (https://webpack.js.org/concepts/)
+
+* Se instaló styled components.
 
 
-Instrucciones
+### Instrucciones
+
 1. Para inicializar el proyecto y traer todas las dependencias usar `npm install` o ` yarn install`. 
 
 2. Para correrlo localmente usar `npm start` o ` yarn start`. 
@@ -16,7 +19,7 @@ Instrucciones
 (Actualmente los modos Production y Development estan setiados manualamente en los scripts, pero son facilmente modificables si la aplicacion escala)
 
 
-Estructura de archivos
+### Estructura de archivos
 
 /assets : Se encuentran todos los archivos estaticos como por ejemplo: imagenes.
 
