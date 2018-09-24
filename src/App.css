@@ -1,0 +1,34 @@
+.app {
+  text-align: center;
+}
+
+.logo {
+    display: block;
+    width: 100%;
+    height: 100%;
+    line-height: 4em;
+    background: rgba(255,255,255,0.15);
+    border: 0;
+    border: solid 1px rgba(255,255,255,0.75);
+    border-radius: 0 0 0.35em 0.35em;
+    color: #fff;
+    display: inline-block;
+    font-weight: 600;
+    letter-spacing: 3px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.header {
+  background: url(./assets/img/background.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover; /* For WebKit*/
+  -moz-background-size: cover;    /* Mozilla*/
+  -o-background-size: cover;      /* Opera*/
+  background-size: cover;         /* Generic*/
+}
+
+.background{
+  width: 100%;
+  height: 100%;
+  background-color: lightgray;
+}
